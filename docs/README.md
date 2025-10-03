@@ -12,7 +12,7 @@ Quality assurance is embedded throughout our delivery lifecycle. We maintain com
 
 Risk management is proactive and transparent. We maintain risk registers, conduct regular assessments at weekly syncs, and have clear escalation paths from team level through PM, Product Lead, to Sponsor. This structured approach helps teams identify and mitigate issues before they become blockers.
 
-Communication and tracking tools provide visibility across the organization. We use project boards with standardized columns (Backlog, Ready, In Progress, In Review, QA, Done), maintain single sources of truth for project status, and follow templated formats for weekly updates and incident communications. 
+Communication and tracking tools provide visibility across the organization. We use project boards with standardized columns (Backlog, Ready, In Progress, In Review, QA, Done), maintain single sources of truth for project status, and follow templated formats for weekly updates and incident communications.
 
 After each milestone or release, we conduct retrospectives to capture learnings and convert them into actionable improvements. This continuous improvement culture ensures that teams evolve their practices based on real experience, fostering ongoing enhancement of both processes and outcomes.
 
